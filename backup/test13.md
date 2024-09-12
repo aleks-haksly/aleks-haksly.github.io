@@ -1,1 +1,1 @@
-`Gmeek-html<iframe src="https://aleks-haksly.github.io/01%20RFM%20analysis.html" width="100%" height="100%" frameborder="0" allowfullscreen="true" overflow="hidden" z-index="999999"></iframe>`
+`Gmeek-html<iframe src="https://aleks-haksly.github.io/01%20RFM%20analysis.html" width="100%" height="100%" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>`
